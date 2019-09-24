@@ -248,7 +248,8 @@ Notes:
 ![Peter Tosh](img/wailing-wailers.jpg) <!-- .element class="plain stretch img-limit"-->
 ![specials CD](img/specials-album-cover.jpg) <!-- .element class="plain stretch img-limit"-->
 
-# 🕴
+![webdings version](img/businessman-levitating-webdings.svg) 🕴<!-- .element class="plain logo"  -->
+<!-- .element style="font-size: 7em;" -->
 
 Notes:
 * Well, and finally, here's the inspiration
