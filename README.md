@@ -2,7 +2,7 @@
 
 A lightning talk presented at DevNQ.
 
-Slides PDF:
+Slides PDF: <https://github.com/davidjb/2019-history-of-an-emoji-talk/raw/master/slides-web.pdf>
 
 ## Setup
 
