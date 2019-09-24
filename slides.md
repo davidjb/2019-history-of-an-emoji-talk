@@ -79,7 +79,7 @@ Notes:
 # 😂
 
 Notes:
-* Why the joy emoji was Oxford dictionary's word of the year in 2015
+* Why the **JOY** emoji was Oxford dictionary's word of the year in 2015
 * Yes, seriously
 
 ---
@@ -97,7 +97,7 @@ Notes:
 Notes:
 
 * ARGH!
-* Called **Kaomoji** btw -- lit. face character in Japanese
+* Called **Kaomoji** btw -- means **face character** in Japanese
 
 ---
 
@@ -107,7 +107,7 @@ Notes:
 Notes:
 * I'm going to cover one specific emoji
 * But which one?
-* Btw, not an emoji, that's the REPLACEMENT CHARACTER
+* Btw, not an emoji, that's the **REPLACEMENT CHARACTER**
 * You'll see that when a Unicode character isn't able to be displayed on your
   device (eg new emoji on an old device)
 
@@ -226,7 +226,7 @@ Notes:
 * The word "jump" was on the list of symbols that Vincent was perusuing so see
   what he'd be interested in working on
 * He thought "Jump" equals "jupming, pogo-ing man"
-* He had a ska-genre Japanese import CD by a band called "The Specials", whose
+* He had a 1980s ska-genre CD by a band called "The Specials", whose
   record label logo was on it...
 
 ---
@@ -265,6 +265,7 @@ Notes:
 * So there you go.
 * Reggae, ska music, a bowling shirt, IE 4.0, Windows 98, the web and a whole
   lotta time equals our new friend
+* The Man in Businesssuit Levitating
 
 ---
 
