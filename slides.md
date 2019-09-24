@@ -214,7 +214,6 @@ Notes:
 
 ![webdings](img/webdings.png) <!-- .element class="plain stretch img-limit"-->
 
-
 Notes:
 * Webdings has 230 characters, stuff Microsoft's designers thought "useful"
 * Vincent Connare, designer of Comic Sans, is the one responsible
@@ -238,10 +237,10 @@ Notes:
 * Look familiar?
 * This is part of the 2 Tone Records logo, and it appeared across their
   label's artists from 1979 to 1985
-* On the left is our boy - the figure 2 Tone called "Walt Jabsco"
-* "Rude boy" style, British Ska -- black suit, white shirt, tie, pork pie hat & loafters
-* The name came from an old op-shop American bowling shirt the label's founder
+* On the left is our boy - he was named "Walt Jabsco"
+* Came from a charity shop American bowling shirt the label's founder
   purchased -- and "Walt Jabsco" was embroidered on the shirt
+* Anyway: **"Rude boy" style**, British Ska -- black suit, white shirt, tie, pork pie hat & loafters
 * But why is it so?
 
 ---
@@ -255,7 +254,7 @@ Notes:
 * Well, and finally, here's the inspiration
 * The album artwork of a reggae band from the mid-60s called the Wailing
   Wailers
-* The gent on the right is Peter Tosh, and the 2 Tone label chose him,
+* The gent on the right is Peter Tosh, and the label chose him,
   describing the look as "Defiant & Jamaican & Hard"
 
 ---
@@ -284,3 +283,4 @@ Notes:
 ---
 
 # 🎬
+## 👏👏🏻👏🏼👏🏽👏🏾👏🏿
