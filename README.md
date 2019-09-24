@@ -2,7 +2,7 @@
 
 A lightning talk presented at DevNQ.
 
-Slides PDF: <https://github.com/davidjb/2019-devnq-devs-alive/raw/master/slides-web.pdf>
+Slides PDF:
 
 ## Setup
 
